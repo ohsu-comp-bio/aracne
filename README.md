@@ -1,0 +1,1 @@
+This repo contains simple CLI wrapper scripts and environment config (docker, conda) for [Aracne-AP](https://github.com/califano-lab/ARACNe-AP), which does "Network Reverse Engineering through AP inference of Mutual Information".
